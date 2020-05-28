@@ -1,8 +1,23 @@
 body {
   text-align: center;
-  color: blueviolet;
-  
+  color: rgb(97, 99, 147);
+  font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+  font-size: 4em;
+
 }
 p {
-  color: black;
+  color: gray;
+  font-size: 24px;
+}
+#container {
+  width: 80%;
+  height: 50%;
+  border: 3px solid gray;
+  border-radius: 1px;
+  align-content: center;
+  display: flex;
+  margin: 50px;
+  display: inline-block;
 }
