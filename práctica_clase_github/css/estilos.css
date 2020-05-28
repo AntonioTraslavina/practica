@@ -12,12 +12,27 @@ p {
   font-size: 24px;
 }
 #container {
-  width: 80%;
+  width: 70%;
   height: 50%;
-  border: 3px solid gray;
+  border: 1px solid gray;
   border-radius: 1px;
   align-content: center;
   display: flex;
   margin: 50px;
   display: inline-block;
+}
+h2 {
+  background-color: rgb(97, 99, 147);
+  color: white;
+  font-size: 1.5em;
+  text-align: left;
+  padding: 0px 20px;
+  width: auto;
+  margin: 0px;
+  height: 2em;
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .5em;
 }
