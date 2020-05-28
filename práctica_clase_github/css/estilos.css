@@ -15,13 +15,31 @@ p {
   width: 50%;
   height: 50%;
   border: 1px solid gray;
-  border-radius: 1px;
+  border-radius: 5px;
   text-align: left;
   display: flex;
-  margin: 50px;
+  margin: 50px 0;
   display: inline-block;
-  padding: 0 30px;
+  padding: 0px;
+  
+}
+#cabecera {
+  background-color: rgb(97, 99, 147);
+  color: white;
+  font-size: 1.2em;
+  text-align: left;
+  padding: 0px 20px;
+  width: auto;
+  margin: 0px;
+  display: flex;
+  align-items: left;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .5em;
 }
 h3 {
   font-size: 2em;
+}
+#post {
+  padding: 0 20px;
 }
