@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  color: rgb(97, 99, 147);
+  color: black;
+  /* color: rgb(97, 99, 147); */
   font-family: 'Times New Roman', Times, serif;
 }
 h1 {
