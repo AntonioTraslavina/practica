@@ -43,3 +43,15 @@ h3 {
 #post {
   padding: 0 20px;
 }
+#footer {
+  justify-content: center;
+  display: flex;
+  background-color: currentColor;
+  font-family: sans-serif;
+  
+}
+#footer p {
+  font-size: 1em;
+  color: white;
+  text-transform: uppercase;
+}
