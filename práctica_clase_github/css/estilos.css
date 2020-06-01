@@ -24,8 +24,8 @@ p {
   
 }
 #cabecera {
-  background-color: rgb(97, 99, 147);
-  color: white;
+  background-color: rgb(240, 255, 71);
+  color: rgb(67, 64, 64);
   font-size: 1.2em;
   text-align: left;
   padding: 0px 20px;
@@ -36,6 +36,13 @@ p {
   font-family: sans-serif;
   text-transform: uppercase;
   letter-spacing: .5em;
+  align-items: center;
+}
+#cabecera #logo {
+  width: 3em;
+  height: 3em;
+  padding-right: 20px;
+  
 }
 h3 {
   font-size: 2em;
